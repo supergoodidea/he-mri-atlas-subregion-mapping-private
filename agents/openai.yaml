@@ -1,0 +1,4 @@
+interface:
+  display_name: "HE–MRI Atlas Subregion Mapping"
+  short_description: "图谱驱动的 HE–MRI 脑区分区与匹配"
+  default_prompt: "使用此 skill 完成图谱学习、HE 解剖边界分区、MRI 方向校正、相似层搜索、MRI stack–HE 匹配和 subregion 映射，并输出可审计的 NIfTI、manifest 与 QC。"
